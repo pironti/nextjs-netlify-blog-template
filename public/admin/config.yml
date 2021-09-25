@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: pironti/nextjs-netlify-blog-template
   branch: master
 media_folder: public/images
 public_folder: /images
