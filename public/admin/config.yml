@@ -1,6 +1,10 @@
 backend:
-  name: pironti/nextjs-netlify-blog-template
+  name: github
+  repo: pironti/nextjs-netlify-blog-template
   branch: master
+  api_root: https://api.github.com
+  site_domain: location.hostname
+  base_url: https://api.netlify.com
 media_folder: public/images
 public_folder: /images
 publish_mode: editorial_workflow
